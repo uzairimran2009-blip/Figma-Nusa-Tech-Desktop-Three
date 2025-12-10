@@ -209,7 +209,7 @@ header .sign button:hover {
 }
 .oneimg{
     position: absolute;
-    top: 211px;
+    top: 291px;
     height: 50%;
     width: 100%;
 }
@@ -1138,4 +1138,5 @@ footer .footersec2 .footercontain .footercontent .footerimg1:hover{
     font-size: 23px;
     font-weight: 500;
     color: #fff;
+
 }
